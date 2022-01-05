@@ -1,0 +1,3 @@
+# GachonUniversity
+
+this directory is my project source code directory in university using deep learning, dip, c++...
